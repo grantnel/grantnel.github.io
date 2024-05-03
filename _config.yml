@@ -1,6 +1,6 @@
 title: Grant Nelson
 description: personal website
-show_downloads: "false"
+show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
 remote_theme: pages-themes/cayman@v0.2.0
