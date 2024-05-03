@@ -19,9 +19,11 @@ GPA: 4.3
 ## PrISUm Solar Car Club                                                                                      Aug 2023 – Present
 * Designing and building the club’s new generation solar car (P16)
 * Member of the Mechanical design team and Removeable Panels/Aeroshell sub-teams
+
 ## Kiewit Scholars Program                                                                                    Aug 2023 – Present
 * Professional development and career-building seminar
 * Networked with Kiewit Representatives and participated in team building activities
+
 ## Dubuque Habitat for Humanity                                                                           Sep 2022 – Present
 * Contributed to opening a ReStore by renovating an existing shop space
 * Supporting operation by processing donations and onboarding new volunteers
