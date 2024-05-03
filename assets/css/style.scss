@@ -4,9 +4,9 @@
 @import "{{ site.theme }}";
 
 footer {
-  display: contact;
+  display: none !important;
 }
 
 .btn {
-  display: contact;
+  display: none !important;
 }
