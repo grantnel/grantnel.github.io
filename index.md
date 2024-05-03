@@ -1,4 +1,4 @@
-###
+&NewLine;
 # Objective:
 Obtain an internship in the mechanical engineering field during summer 2024.
 
